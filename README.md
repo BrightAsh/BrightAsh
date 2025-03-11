@@ -4,27 +4,27 @@
 
 ### 🛠 Tech Stack 
 ---
-#### 🔹 프로그래밍 언어  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)![Pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)![Catia](https://img.shields.io/badge/Catia-00599C?style=flat&logo=dassault-systèmes&logoColor=white)![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?style=flat&logo=autodesk&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)![NLP](https://img.shields.io/badge/NLP-3C873A?style=flat&logo=spacy&logoColor=white)![Deep Learning](https://img.shields.io/badge/Deep_Learning-00599C?style=flat)![Machine Learning](https://img.shields.io/badge/Machine_Learning-5A5A5A?style=flat)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=mathworks&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=flat&logo=verilog&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)![Pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)![Catia](https://img.shields.io/badge/Catia-00599C?style=flat&logo=dassault-systèmes&logoColor=white)![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?style=flat&logo=autodesk&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)![NLP](https://img.shields.io/badge/NLP-3C873A?style=flat&logo=spacy&logoColor=white)![Deep Learning](https://img.shields.io/badge/Deep_Learning-00599C?style=flat)![Machine Learning](https://img.shields.io/badge/Machine_Learning-5A5A5A?style=flat)  
+
+
 
 
 ### 📈 GitHub Stats
 --- 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrightAsh&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrightAsh&layout=compact&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrightAsh&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrightAsh&layout=compact&theme=dark)
 
 
 
 ### 🎓 Experience & Education
 ---
-- **2017.03 ~ 2022.08** 경상국립대학교 항공우주 및 소프트웨어공학 학사  
+- **2017.03 ~ 2022.08** 경상국립대학교 항공우주 및 소프트웨어공학 학사 과정
 - **2018.07 ~ 2020.04** Republic of Korea Navy  
-- **2022.09 ~ 2024.02** 경상국립대학교 기계항공공학과 석사  
-- **2024.09 ~ 2025.02** KT AIVLE AI 개발 트랙 수료  
+- **2022.09 ~ 2024.02** 경상국립대학교 기계항공공학과 석사 과정 
+- **2024.09 ~ 2025.02** KT AIVLE AI 개발 트랙
 
 ### 📂 Projects & Research
 ---
-🔹 **[제7회 창의 융합 3D 프린팅 아이디어 경진대회]** *(2021.08 ~ 2021.09)*  
+🔹 **제7회 창의 융합 3D 프린팅 아이디어 경진대회** *(2021.08 ~ 2021.09)*  
    - **Description:** 코로나 감염 방지를 위한 머그컵 거치대 설계 및 제작  
    - **Role:** 아이디어 구상, 설계 도면 제작  
    - **Stack:** `Catia`  
@@ -34,12 +34,12 @@
    - **Role:** HTML, CSS, JavaScript를 이용한 웹 페이지 구축  
    - **Stack:** `HTML`, `CSS`, `JavaScript`
 
-🔹 **[2021 창업아이디어 경진대회]** *(2021.10 ~ 2021.11)*  
+🔹 **2021 창업아이디어 경진대회** *(2021.10 ~ 2021.11)*  
    - **Description:** 손목 혈관을 이용한 신분증 대체 시스템  
    - **Role:** 아이디어 구상  
    - **Stack:** 없음  
 
-🔹 **[2021 빅데이터 아이디어 공모전](https://github.com/BrightAsh/University-Cafeteria-Meal-Prediction)** *(2020.12 ~ 2021.01)*  
+🔹 **[2021 빅데이터 아이디어 공모전](https://github.com/BrightAsh/University-Cafeteria-Meal-Prediction)** *(2021.12 ~ 2022.01)*  
    - **Description:** 학교 중앙식당 식수원 예측  
    - **Role:** 예측 모델 설계  
    - **Stack:** `Python`, `Pandas`, `Scikit-learn`  
@@ -54,13 +54,19 @@
    - **Role:** U-Net 모델 설계, 탐지 알고리즘 최적화  
    - **Stack:** `Python`, `TensorFlow`
 
+
+🔹 **[유통 데이터 기반 라면 및 면류 수요 예측](https://github.com/BrightAsh/Demand-Forecast)** *(2024.09 ~ 2024.10)*
+   - **Description:** 유통 데이터를 분석하고, 미래 수요를 예측
+   - **Role:** 데이터 시각화/분석/전처리, 모델 설계 및 최적화
+   - **Stack:** `Python`, `Machine Learning`
+
 🔹 **[KT AIVLE Big Project](https://github.com/KT-AIVLE-BigProject-Group27)** *(2024.12 ~ 2025.02)*  
    - **Description:** 계약서 독소 조항/위법 조항 식별 및 요약 AI 시스템 개발  
-   - **Role:** AI 시스템 설계, 데이터 생성 및 전처리, 독소 조항 탐지 모델 개발  
+   - **Role:** AI 시스템 설계, 데이터 생성 및 전처리, 독소/위법 조항 탐지 모델 개발, 기능 모듈화  
    - **Stack:** `Python`, `FastAPI`, `Docker`, `NLP`, `Transformer`, `PyTorch`  
 
 
-### 🏆 Certifications
+### 📄 Certifications
 --- 
 - **2017.02.13** 자동차운전면허 1종 보통  
 - **2021.08.20** 컴퓨터 활용능력 1급  
@@ -93,4 +99,4 @@
 ---
 📧 **Naver Email:** [busisi79@naver.com](mailto:busisi79@naver.com)  
 📧 **Google Email:** [busisi7776@google.com](mailto:busisi7776@google.com)  
-📸 **Instagram:** [bright_ash](https://instagram.com/bright_ash)  
+📸 **Instagram:** [bright_ash](https://instagram.com/bright_ash) 
