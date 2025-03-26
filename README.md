@@ -1,18 +1,51 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9D50BB&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff" />
 
-수정 중,,,
 
 ### 🛠 Tech Stack 
 ---
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=mathworks&logoColor=white)![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=flat&logo=verilog&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)![Pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)![Catia](https://img.shields.io/badge/Catia-00599C?style=flat&logo=dassault-systèmes&logoColor=white)![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?style=flat&logo=autodesk&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)![NLP](https://img.shields.io/badge/NLP-3C873A?style=flat&logo=spacy&logoColor=white)![Deep Learning](https://img.shields.io/badge/Deep_Learning-00599C?style=flat)![Machine Learning](https://img.shields.io/badge/Machine_Learning-5A5A5A?style=flat)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=mathworks&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=flat&logo=verilog&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)<br>
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+![Pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) 
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white) 
+![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) 
+![Catia](https://img.shields.io/badge/Catia-00599C?style=flat&logo=dassault-systèmes&logoColor=white) 
+![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?style=flat&logo=autodesk&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)<br>
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) 
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat) 
+![LangChain](https://img.shields.io/badge/LangChain-3C3C3C?style=flat) <br>
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-00599C?style=flat) 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-5A5A5A?style=flat)
+![NLP](https://img.shields.io/badge/Natural_Language_Processing-3C873A?style=flat)
 
 
 
 
 ### 📈 GitHub Stats
 --- 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrightAsh&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrightAsh&layout=compact&theme=dark)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrightAsh&show_icons=true&theme=auto) <br>
+![Programmers Badge](https://raw.githubusercontent.com/BrightAsh/Programmers_Badge_Generator/main/result/result.svg)
 
 
 ### 🎓 Experience & Education
@@ -65,6 +98,18 @@
    - **Role:** AI 시스템 설계, 데이터 생성 및 전처리, 독소/위법 조항 탐지 모델 개발, 기능 모듈화  
    - **Stack:** `Python`, `FastAPI`, `Docker`, `NLP`, `Transformer`, `PyTorch`  
 
+🔹 **2025 서울 열린데이터광장 공공데이터 활용 창업 경진대회** *(2025.03 ~ )*  
+   - **Description:** -
+   - **Role:** -
+   - **Stack:** - 
+
+🔹 **제4회 고용노동 공공데이터 활용 공모전** *(2025.03 ~ )*  
+   - **Description:** -
+   - **Role:** -
+   - **Stack:** -
+
+
+
 
 ### 📄 Certifications
 --- 
@@ -93,6 +138,7 @@
 ---
 - **2022.06.30** 2022년 지역SW품질역량강화사업 ISTQB-CTFL 교육 *(2022.06.28 ~ 2022.06.30)*  
 - **2023.04.28** 항공 SW 인증 획득을 위한 DO-178C 프로세스 교육 *(2023.04.27 ~ 2023.04.28)*  
+- **2025.02.26** KT AIVLE School AI 트랙 *(2024.09.03 ~ 2025.02.26)*  
 
 
 ### 📫 Contact
