@@ -40,13 +40,9 @@
 ![NLP](https://img.shields.io/badge/Natural_Language_Processing-3C873A?style=flat)
 
 
-
-
 ### 📈 GitHub Stats
 --- 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrightAsh&show_icons=true&theme=auto) <br>
-![Programmers Badge](https://raw.githubusercontent.com/BrightAsh/Programmers_Badge_Generator/main/result/result.svg)
-
 
 ### 🎓 Experience & Education
 ---
@@ -54,6 +50,7 @@
 - **2018.07 ~ 2020.04** Republic of Korea Navy  
 - **2022.09 ~ 2024.02** 경상국립대학교 기계항공공학과 석사 과정 
 - **2024.09 ~ 2025.02** KT AIVLE AI 개발 트랙
+- **2025.04 ~ 2025.06** KT 미디어부문 체험형 인턴십
 
 ### 📂 Projects & Research
 ---
@@ -63,51 +60,71 @@
    - **Stack:** `Catia`  
 
 🔹 **[소프트웨어공학개론 프로젝트](https://github.com/BrightAsh/Ja_riyo)** *(2021.09 ~ 2021.12)*  
-   - **Description:** 실시간 카페 자리 조회 서비스  
+   - **Description:** 자리요-실시간 카페 자리 조회/예약 서비스  
    - **Role:** HTML, CSS, JavaScript를 이용한 웹 페이지 구축  
    - **Stack:** `HTML`, `CSS`, `JavaScript`
 
 🔹 **2021 창업아이디어 경진대회** *(2021.10 ~ 2021.11)*  
    - **Description:** 손목 혈관을 이용한 신분증 대체 시스템  
    - **Role:** 아이디어 구상  
-   - **Stack:** 없음  
+   - **Stack:** - 
 
 🔹 **[2021 빅데이터 아이디어 공모전](https://github.com/BrightAsh/University-Cafeteria-Meal-Prediction)** *(2021.12 ~ 2022.01)*  
    - **Description:** 학교 중앙식당 식수원 예측  
    - **Role:** 예측 모델 설계  
-   - **Stack:** `Python`, `Pandas`, `Scikit-learn`  
+   - **Stack:** `Python`, `Machine Learning(RandomForest)` 
 
 🔹 **[인공지능 기법을 이용한 비정상 비행상태 탐지 및 원인 식별 연구](https://github.com/BrightAsh/AI-Flight-Anomaly)** *(2022.03 ~ 2023.02)*  
    - **Description:** 무인항공기의 비정상 비행 예측  
    - **Role:** 비행 상태 변수 예측 모델 (CNN-LSTM) 설계, 통합 시스템 설계 (Multi-process)  
-   - **Stack:** `Python`, `TensorFlow`
+   - **Stack:** `Python`, `TensorFlow`, `CNN`, `LSTM`
 
 🔹 **[U-Net을 이용한 무인항공기 비정상 비행 탐지 기법 연구](https://github.com/BrightAsh/U-Net-Flight-Detection)** *(2023.08 ~ 2024.02)*  
    - **Description:** 비정상 비행 탐지 모델 최적화  
    - **Role:** U-Net 모델 설계, 탐지 알고리즘 최적화  
-   - **Stack:** `Python`, `TensorFlow`
+   - **Stack:** `Python`, `TensorFlow`, `U-net`, `Mahalanobis Distance`
 
 
 🔹 **[유통 데이터 기반 라면 및 면류 수요 예측](https://github.com/BrightAsh/Demand-Forecast)** *(2024.09 ~ 2024.10)*
    - **Description:** 유통 데이터를 분석하고, 미래 수요를 예측
    - **Role:** 데이터 시각화/분석/전처리, 모델 설계 및 최적화
-   - **Stack:** `Python`, `Machine Learning`
+   - **Stack:** `Python`, `Machine Learning(DecisionTree/RandomForest/XGBoost/LightGBM)`, `GridSearchCV`
 
 🔹 **[KT AIVLE Big Project](https://github.com/KT-AIVLE-BigProject-Group27)** *(2024.12 ~ 2025.02)*  
    - **Description:** 계약서 독소 조항/위법 조항 식별 및 요약 AI 시스템 개발  
-   - **Role:** AI 시스템 설계, 데이터 생성 및 전처리, 독소/위법 조항 탐지 모델 개발, 기능 모듈화  
-   - **Stack:** `Python`, `FastAPI`, `Docker`, `NLP`, `Transformer`, `PyTorch`  
+   - **Role:** AI 시스템 설계, 데이터 생성 및 전처리, 모델 학습·개발(독소 탐지, 위법 탐지, 위반 법 예측), 모듈 통합
+   - **Stack:** `Python`,`torch`, `transformers(KLUE-Bert Base/KoBert/KoELECTRA/KLUE-RoBERTa/KoS-BERT/XLM-RoBERTa)`, `OpenAI GPT-4o`, `cosine_similarity`, `FastAPI`, `Docker`, `Prompt Engineering`
 
-🔹 **2025 서울 열린데이터광장 공공데이터 활용 창업 경진대회** *(2025.03 ~ )*  
-   - **Description:** -
-   - **Role:** -
-   - **Stack:** - 
+🔹 **2025 서울 열린데이터광장 공공데이터 활용 창업 경진대회** *(2025.03 ~ 2025.06)*  
+   - **Description:** 네이처히어로즈 - 현실 속 자연을 탐험하고 동식물을 포획하며 학습하는 AR 기반 생태 교육 게임 앱
+   - **Role:** 아디이어 구상, Figma 기반 앱 화면 설계
+   - **Stack:** `Figma`
 
-🔹 **제4회 고용노동 공공데이터 활용 공모전** *(2025.03 ~ )*  
-   - **Description:** -
-   - **Role:** -
-   - **Stack:** -
+🔹 **[제4회 고용노동 공공데이터 활용 공모전](https://github.com/workerManagers/Data-AI)** *(2025.03 ~ 2025.06)*  
+   - **Description:** 급구당 - 산재 병명에 따라 예상 요양 기간을 예측하고, 그 기간에 맞춰 대체 인력을 자동으로 매칭해주는 인력 중개 서비스
+  - **Role:** 데이터 OCR 및 전처리, 요양 기간 예측 모델 설계·학습, 이력서-공고 간 유사도 점수 산출 알고리즘 개발
+   - **Stack:** `Python`, `torch`, `sentence_transformers(Ko-SBERT)`, `FastAPI`, `cosine_similarity`
 
+🔹 **[Daily_AI_Briefing_Service (KT Internship)](https://github.com/BrightAsh/Daily_AI_Briefing_Service)** *(2025.03 ~ 2025.06)*  
+   - **Description:** 뉴스·블로그·논문을 자동 수집·요약·정리해 PDF 리포트 제공, RAG 챗봇으로 질의응답 지원 서비스
+   - **Role:** AI Agent 환경 구성, 동의어 생성, 뉴스 크롤링/요약, 모듈 파이프라인 설계 및 통합
+   - **Stack:** `Python`, `PyTorch`, `langchain`, `transformers(KoBART)`, `OpenAI GPT-4o`, `NewsAPI`, `newspaper`, `cosine similarity`
+
+🔹 **[SnS (See & Shop) (KT Internship)](https://github.com/BrightAsh/SnS)** *(2025.03 ~ 2025.06)*  
+   - **Description:** 음성 명령과 영상 인식을 통해 시청 중인 영상 속 제품을 실시간 탐지하고 정보를 제공하는 AI 인터랙티브 쇼핑 서비스
+   - **Role:** 1인 프로젝트
+   - **Stack:** `Python`, `ultralytics(YOLO8x-oiv7)`, `OpenAI GPT-4o`,  `PyQt5`, `pyttsx3`, `speech_recognition`, `threading`
+
+🔹 **[AI_Shortform_Generator(KT Internship)](https://github.com/BrightAsh/AI_Shortform_Generator)** *(2025.03 ~ 2025.06)*  
+   - **Description:** 가로 비율 영상을 세로 숏폼 영상으로 자동 변환해주는 AI 기반 영상 리프레임 서비스
+   - **Role:** Object Detection, Object Tracking, 모듈 파이프라인 설계 및 통합
+   - **Stack:** `Python`, `PyTorch`, `Ultralytics(RTDETR)`, `InsightFace(Buffalo)`, `DeepSORT`, `Kalman Filter`, `RunPod`
+
+
+🔹 **[AI_Assistant_Writer(KT Internship)](https://github.com/BrightAsh/AI_Assistant_Writer)** *(2025.03 ~ 2025.06)*  
+   - **Description:** AI가 실시간 보조작가로써 작가의 스토리 집필을 돕는 지원 서비스
+   - **Role:** 캐릭터 개성 및 말투 일관성 유지 검사
+   - **Stack:** `Python`, `OpenAI GPT-4o`, `Prompt Engineering`
 
 
 
@@ -139,7 +156,7 @@
 - **2022.06.30** 2022년 지역SW품질역량강화사업 ISTQB-CTFL 교육 *(2022.06.28 ~ 2022.06.30)*  
 - **2023.04.28** 항공 SW 인증 획득을 위한 DO-178C 프로세스 교육 *(2023.04.27 ~ 2023.04.28)*  
 - **2025.02.26** KT AIVLE School AI 트랙 *(2024.09.03 ~ 2025.02.26)*  
-
+- **2025.06.04** KT 미디어부문 체험형 인턴십 *(2024.04.28 ~ 2025.06.04)*  
 
 ### 📫 Contact
 ---
