@@ -105,23 +105,23 @@
   - **Role:** 데이터 OCR 및 전처리, 요양 기간 예측 모델 설계·학습, 이력서-공고 간 유사도 점수 산출 알고리즘 개발
    - **Stack:** `Python`, `torch`, `sentence_transformers(Ko-SBERT)`, `FastAPI`, `cosine_similarity`
 
-🔹 **[Daily_AI_Briefing_Service (KT Internship)](https://github.com/BrightAsh/Daily_AI_Briefing_Service)** *(2025.03 ~ 2025.06)*  
+🔹 **[Daily_AI_Briefing_Service (KT Internship)](https://github.com/BrightAsh/Daily_AI_Briefing_Service)** *(2025.04.28 ~ 2025.05.08)*  
    - **Description:** 뉴스·블로그·논문을 자동 수집·요약·정리해 PDF 리포트 제공, RAG 챗봇으로 질의응답 지원 서비스
    - **Role:** AI Agent 환경 구성, 동의어 생성, 뉴스 크롤링/요약, 모듈 파이프라인 설계 및 통합
    - **Stack:** `Python`, `PyTorch`, `langchain`, `transformers(KoBART)`, `OpenAI GPT-4o`, `NewsAPI`, `newspaper`, `cosine similarity`
 
-🔹 **[SnS (See & Shop) (KT Internship)](https://github.com/BrightAsh/SnS)** *(2025.03 ~ 2025.06)*  
+🔹 **[SnS (See & Shop) (KT Internship)](https://github.com/BrightAsh/SnS)** *(2025.05.09 ~ 2025.05.16)*  
    - **Description:** 음성 명령과 영상 인식을 통해 시청 중인 영상 속 제품을 실시간 탐지하고 정보를 제공하는 AI 인터랙티브 쇼핑 서비스
    - **Role:** 1인 프로젝트
    - **Stack:** `Python`, `ultralytics(YOLO8x-oiv7)`, `OpenAI GPT-4o`,  `PyQt5`, `pyttsx3`, `speech_recognition`, `threading`
 
-🔹 **[AI_Shortform_Generator(KT Internship)](https://github.com/BrightAsh/AI_Shortform_Generator)** *(2025.03 ~ 2025.06)*  
+🔹 **[AI_Shortform_Generator(KT Internship)](https://github.com/BrightAsh/AI_Shortform_Generator)** *(2025.05.19 ~ 2025.05.26)*  
    - **Description:** 가로 비율 영상을 세로 숏폼 영상으로 자동 변환해주는 AI 기반 영상 리프레임 서비스
    - **Role:** Object Detection, Object Tracking, 모듈 파이프라인 설계 및 통합
    - **Stack:** `Python`, `PyTorch`, `Ultralytics(RTDETR)`, `InsightFace(Buffalo)`, `DeepSORT`, `Kalman Filter`, `RunPod`
 
 
-🔹 **[AI_Assistant_Writer(KT Internship)](https://github.com/BrightAsh/AI_Assistant_Writer)** *(2025.03 ~ 2025.06)*  
+🔹 **[AI_Assistant_Writer(KT Internship)](https://github.com/BrightAsh/AI_Assistant_Writer)** *(2025.05.27 ~ 2025.06.04)*  
    - **Description:** AI가 실시간 보조작가로써 작가의 스토리 집필을 돕는 지원 서비스
    - **Role:** 캐릭터 개성 및 말투 일관성 유지 검사
    - **Stack:** `Python`, `OpenAI GPT-4o`, `Prompt Engineering`
